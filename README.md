@@ -12,6 +12,11 @@ Currently implemented Methods are
 GetTriangles (returned as Vector2 Spread)
 GetTrianglePointsByIndex (returned as Vector2 Spread)
 
-For the use with Stride there is also a small helper class implemented which allowes to take the triangles generated from the Delaunator (Vector2) and convert it to a 3D model using random or passed z values
+For the use with Stride there is also a small helper class implemented which takes the triangles generated from the Delaunator (Vector2) and convert it to a 3D model using random or passed z values
+Just reference the Vl.2D.Delaunator.dll.
+
+It includes the DelaunayUtils class:
+CreateRandomVector3ValuesWithDelaunay
+CreateVector8ValuesWithDelaunay
 
 see VL.2D.Delaunator.Playground Patch for examples and usage!
