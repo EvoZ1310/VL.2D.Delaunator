@@ -20,3 +20,6 @@ CreateRandomVector3ValuesWithDelaunay
 CreateVector8ValuesWithDelaunay
 
 see VL.2D.Delaunator.Playground Patch for examples and usage!
+
+![image](https://user-images.githubusercontent.com/56681157/120983493-08a68380-c77a-11eb-906d-6db025468404.png)
+![image](https://user-images.githubusercontent.com/56681157/120983572-1cea8080-c77a-11eb-9504-babe058e8f8b.png)
